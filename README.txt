@@ -1,7 +1,7 @@
-2406 assignment2
+Node.js/Javascript based Single Page App
 
-By Yaji Hu	Student Id:101012215
-   Yejing Li    Student Id:101056554
+By Yaji Hu
+   Yejing Li
 
 Written with MAC 10.13.1 and win 10 systems
 
